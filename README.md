@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ahmetozcan9211
-- 👀 I’m interested in mobile app devoplment
+- 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning java programming
